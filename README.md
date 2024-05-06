@@ -1,16 +1,16 @@
 [![MasterHead](https://www.daac.in/images/course/78838d57d1a7987f1183db17cb6c27f6793802489-mern.jpg)]()
 
-<h1 align="center">Hi 👋, I'm Pousali Chowdhury</h1>
+<h1 align="center">Hola 👋, I'm Pousali Chowdhury</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pousalichowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="pousalichowdhury" /> </p>
 
-- 🔭 I’m currently working on **Travel & Tourism**
+- 🔭 I’m currently working on **Travel & Tourism Website**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **MERN & Java**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **React, DBMS**
 
 - 📫 How to reach me **chowdhurypousali20@gmail.com**
 
