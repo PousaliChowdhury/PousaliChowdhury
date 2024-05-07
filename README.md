@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Travel & Tourism Website**
 
-- 🌱 I’m currently learning **MERN & Java**
+- 🌱 I’m currently learning **MERN Stack & Java**
 
 - 💬 Ask me about **React, DBMS**
 
