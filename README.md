@@ -28,7 +28,7 @@
 
 <div align="left">
 <a href="https://linkedin.com/in/pousalichowdhury" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-<a href="https://www.hackerrank.com/profile/pousali" target="blank"><img src="https://img.shields.io/static/v1?message=HackerRank&logo=linkedin&label=&color=hackerrank&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  /></a>
+<a href="https://www.hackerrank.com/profile/pousali" target="blank"><img src="https://img.shields.io/static/v1?message=HackerRank&logo=hakerrank&label=&color=hackerrank&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  /></a>
 </div>
 
 <br>
