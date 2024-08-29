@@ -35,6 +35,8 @@
 
 
 
+
+
 <br>
 <div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
@@ -73,6 +75,9 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=pousalichowdhury&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+<br>
+
 
 <div align="left">
 <a href="https://linkedin.com/in/pousalichowdhury" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
