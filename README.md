@@ -12,7 +12,7 @@
  
 
 <br>
-<img align="right" alt="Coding" width="400" height="300" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif">
+<img align="right" alt="Coding" width="390" height="290" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif">
 
 <br>
 <br>
