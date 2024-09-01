@@ -69,7 +69,7 @@
 <br>
 
 
-  <h3 align="left">📊 GitHub Stats :</h3>
+  <h3 align="left">📊 My Stats :</h3>
   
  <div align="center">
   <div style="display: flex; justify-content: center; align-items: center;">
