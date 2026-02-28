@@ -17,13 +17,13 @@
 <br>
 <br>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **AIML**
 
 - 🤝 I’m looking for help with **Cyber Security**
 
 - 💬 Ask me about **DBMS, OOPS**
 
-- 📫 How to reach me **chowdhurypousali20@gmail.com**
+- 📫 How to reach me **chowdhurypousali12@gmail.com**
 
 <br>
 
