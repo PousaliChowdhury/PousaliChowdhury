@@ -1,102 +1,39 @@
 <h1 align="center">Hola 👋, I'm Pousali Chowdhury</h1>
+<h3 align="center">A Full Stack Developer and AI/ML Enthusiast from India</h3>
 
-[![MasterHead](https://www.daac.in/images/course/78838d57d1a7987f1183db17cb6c27f6793802489-mern.jpg)]()
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pousalichowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="pousalichowdhury" /> </p>
 
-<h3 align="center">A passionate MERN stack developer from India</h3>
+- 🌱 I’m currently learning **Data Structures & Algorithms, System Design, Advanced SQL, and AI Integration in Web Applications.**
 
- 
-<div align="center">
-   <img src="https://komarev.com/ghpvc/?username=pousalichowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="pousalichowdhury" /> 
-</div>
+- 👯 I’m looking to collaborate on **Full Stack Web Development and AI-powered Applications.**
 
- 
+- 🤝 I’m looking for help with **Advanced AI/ML deployment, cloud technologies, and scalable system design.**
 
-<br>
-<img align="right" alt="Coding" width="390" height="290" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif">
+- 👨‍💻 All of my projects are available at [https://pousalichowdhury.github.io/myPortfolio/](https://pousalichowdhury.github.io/myPortfolio/)
 
-<br>
-<br>
-
-- 🌱 I’m currently learning **AIML**
-
-- 🤝 I’m looking for help with **Cyber Security**
-
-- 💬 Ask me about **DBMS, OOPS**
+- 💬 Ask me about **MERN Stack, SQL, REST APIs, JWT Authentication, MongoDB, Artificial Intelligence, Machine Learning, CNNs, and Genetic Algorithms.**
 
 - 📫 How to reach me **chowdhurypousali12@gmail.com**
 
-<br>
+- 📄 Know about my experiences [https://shorturl.at/h2GUN](https://shorturl.at/h2GUN)
 
+- ⚡ Fun fact **I enjoy turning real-world problems into software solutions and can spend hours debugging a single issue just to learn something new.**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://linkedin.com/in/pousalichowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/pousalichowdhury" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/pousalichowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/pousalichowdhury" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100072629419459&sk=about_overview" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100072629419459&sk=about_overview" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/pousali_chowdhury/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pousali_chowdhury/?hl=en" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/pousali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/pousali" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/pousalichowdhury/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/pousalichowdhury/" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<br>
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pousalichowdhury&show_icons=true&locale=en&layout=compact" alt="pousalichowdhury" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pousalichowdhury&show_icons=true&locale=en" alt="pousalichowdhury" /></p>
 
-
-
-
-<br>
-
-
-
-
-
-<h3 align="left">🛠️ My Technical Toolkit :</h3>
-
-<div align="center">
-  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
-  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-  <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/fluency/48/000000/express-js.png" alt="Express.js" height="50" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-  <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-  <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a> 
-  <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-  <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
-  <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-  <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
-
-
-<br>
-
-
-<br>
-
-
-  <h3 align="left">📊 My Stats :</h3>
-  
- <div align="center">
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <img align="center" src="![GitHub stats](https://github-readme-stats.vercel.app/api?username=pousalichowdhury&show_icons=true)" height="150" alt="pousalichowdhury" />
-    &nbsp;&nbsp;&nbsp;&nbsp; <!-- Adds some space between the two widgets -->
-    <img align="center" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pousalichowdhury&layout=compact)" height="150" alt="languages graph" />
-  </div>
-</div>
-
-
-<h3 align="left">🔥 My Streak :</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=pousalichowdhury&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="Streak Graph" />
-</div>
-
-
-
-<br>
-
-
-<div align="left">
-<a href="https://linkedin.com/in/pousalichowdhury" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-<a href="https://www.hackerrank.com/profile/pousali" target="blank"><img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo" /></a>
-<a href="https://www.instagram.com/pousali_chowdhury/?hl=en" target="blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" /></a>
-<a href="https://www.facebook.com/profile.php?id=100072629419459&sk=about_overview" target="blank"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook logo" /></a>
-
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pousalichowdhury&" alt="pousalichowdhury" /></p>
